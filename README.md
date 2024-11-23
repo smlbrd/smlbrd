@@ -1,4 +1,7 @@
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEoMZjlyS3EEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732399781734?e=1737590400&v=beta&t=zzmaORq37eZL-KjD_xeVjW4eB9HawYvhKQdZytJi7q0)
+
 # 🐦 Hi, I’m Wren!
+
 - ✨ My pronouns are they/them
 - 🌱 I’m currently enrolled in a JavaScript Software Development bootcamp!
 - 📫 You can [email me here!](mailto:wren.hawthorne@outlook.com)
