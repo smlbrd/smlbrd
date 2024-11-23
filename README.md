@@ -3,7 +3,7 @@
 # 🐦 Hi, I’m Wren!
 
 - ✨ My pronouns are they/them
-- 🌱 I’m currently enrolled in a JavaScript Software Development bootcamp!
+- 🌱 I’m currently enrolled in a JavaScript Software Development bootcamp at Northcoders!
 - 📫 You can [email me here!](mailto:wren.hawthorne@outlook.com)
 
 ## 🌐 Find me at...
