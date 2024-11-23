@@ -2,7 +2,7 @@
 - ✨ My pronouns are they/them
 - 🌱 I’m currently enrolled in a JavaScript Software Development bootcamp!
 - 📫 You can email me [here!](mailto:wren.hawthorne@outlook.com)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Pirates weren't allowed pain medication on their ships because the parrots eat 'em all 🦜
 
 ## 🌐 You can find me at...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wren-h)
