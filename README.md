@@ -15,12 +15,12 @@
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-24283b?style=for-the-badge&logo=javascript&logoColor=EBCB8B)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-24283b?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-##### 🚧 Web & Frontend Development
+##### 🚧 Frontend && Web Development
 ![React Badge](https://img.shields.io/badge/-React-24283b?style=for-the-badge&logo=react&logoColor=BF616A)
 ![HTML Badge](https://img.shields.io/badge/-HTML-24283b?style=for-the-badge&logo=html5&logoColor=D08770)
 ![CSS Badge](https://img.shields.io/badge/-CSS-24283b?style=for-the-badge&logo=css3&logoColor=81A1C1)
 
-##### 💽 Database & Backend Development
+##### 💽 Backend && Databases
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-24283b?style=for-the-badge&logo=node.js&logoColor=A3BE8C)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-24283b?style=for-the-badge&logo=postgresql&logoColor=81A1C1)
 ![Express.js](https://img.shields.io/badge/Express.js-24283b?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -33,7 +33,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-24283b?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 ![Netlify](https://img.shields.io/badge/Netlify-24283b?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-##### ⚙ Development Tools
+##### ⚙ Development Tools && Daily Essentials
 ![Git Badge](https://img.shields.io/badge/-Git-24283b?style=for-the-badge&logo=git&logoColor=5E81AC)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-24283b?style=for-the-badge&logo=github&logoColor=8FBCBB)
 ![npm Badge](https://img.shields.io/badge/-npm-24283b?style=for-the-badge&logo=npm&logoColor=BF616A)
