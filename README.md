@@ -26,7 +26,7 @@
 ![Express.js Badge](https://img.shields.io/badge/Express.js-24283b?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-24283b?style=for-the-badge&logo=sqlite&logoColor=B48EAD)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-24283b?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Render Badge](https://img.shields.io/badge/Render-24283b?logo=render&logoColor=000&style=for-the-badge)
+![Render Badge](https://img.shields.io/badge/Render-24283b?logo=render&logoColor=fff&style=for-the-badge)
 ![Axios Badge](https://img.shields.io/badge/Axios-24283b?logo=axios&logoColor=5A29E4&style=for-the-badge)
 ![.ENV Badge](https://img.shields.io/badge/.ENV-24283b?logo=dotenv&logoColor=ECD53F&style=for-the-badge)
 
