@@ -1,5 +1,3 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHeZZVRl8E5ZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732463270206?e=1738195200&v=beta&t=8Gs3CxPJ5m640_x4nd0yZnYEMjxfn9PVKtgvHCAtyRg)
-
 # 👋 Hello world!
 - 🐦 I'm Wren
 - ✨ My pronouns are they/them
