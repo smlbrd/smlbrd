@@ -15,13 +15,16 @@
 
 #### 🚧 Frontend && Web Development
 ![React Badge](https://img.shields.io/badge/-React-24283b?style=for-the-badge&logo=react&logoColor=BF616A)
+![React Native](https://img.shields.io/badge/React_Native-24283b?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-24283b?style=for-the-badge&logo=expo&logoColor=000020)
 ![HTML Badge](https://img.shields.io/badge/-HTML-24283b?style=for-the-badge&logo=html5&logoColor=D08770)
 ![CSS Badge](https://img.shields.io/badge/-CSS-24283b?style=for-the-badge&logo=css3&logoColor=81A1C1)
 
 #### 💽 Backend && Databases
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-24283b?style=for-the-badge&logo=node.js&logoColor=A3BE8C)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-24283b?style=for-the-badge&logo=postgresql&logoColor=81A1C1)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-24283b?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-24283b?style=for-the-badge&logo=postgresql&logoColor=81A1C1)
+![MongoDB](https://img.shields.io/badge/MongoDB-24283b?style=for-the-badge&logo=mongodb&logoColor=234ea94b)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-24283b?style=for-the-badge&logo=sqlite&logoColor=B48EAD)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-24283b?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![Render Badge](https://img.shields.io/badge/Render-24283b?logo=render&logoColor=fff&style=for-the-badge)
@@ -34,6 +37,7 @@
 #### ⛅ Cloud Tools
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-24283b?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-24283b?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-24283b?style=for-the-badge&logo=vercel&logoColor=#23000000)
 
 #### ⚙ Development Tools && Daily Essentials
 ![Git Badge](https://img.shields.io/badge/-Git-24283b?style=for-the-badge&logo=git&logoColor=5E81AC)
@@ -46,7 +50,6 @@
 #### 👀 I want to learn more about...
 ![Deno Badge](https://img.shields.io/badge/Deno-24283b?style=for-the-badge&logo=deno&logoColor=fff)
 ![Python Badge](https://img.shields.io/badge/-Python-24283b?style=for-the-badge&logo=python&logoColor=EBCB8B)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-24283b?style=for-the-badge&logo=nextdotjs&logoColor=88C0D0)
 
 #### 📊 My stats...
 [![Codewars Stat Block](https://github.r2v.ch/codewars?user=smlbrd&theme=purple_dark)](https://www.codewars.com/users/smlbrd)
