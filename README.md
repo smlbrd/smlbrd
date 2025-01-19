@@ -45,7 +45,6 @@
 ![npm Badge](https://img.shields.io/badge/-npm-24283b?style=for-the-badge&logo=npm&logoColor=BF616A)
 ![VSCode Badge](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-24283b?style=for-the-badge&logo=vsc&logoColor=0078d7)
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-24283b?style=for-the-badge&logo=obsidian&logoColor=8B5CF6)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-24283b?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
 #### 👀 I want to learn more about...
 ![Deno Badge](https://img.shields.io/badge/Deno-24283b?style=for-the-badge&logo=deno&logoColor=fff)
