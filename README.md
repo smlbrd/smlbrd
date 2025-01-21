@@ -14,7 +14,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-24283b?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 #### 🚧 Frontend && Web Development
-![React Badge](https://img.shields.io/badge/-React-24283b?style=for-the-badge&logo=react&logoColor=BF616A)
+![React Badge](https://img.shields.io/badge/-React-24283b?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-24283b?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-24283b?style=for-the-badge&logo=expo&logoColor=000020)
 ![HTML Badge](https://img.shields.io/badge/-HTML-24283b?style=for-the-badge&logo=html5&logoColor=D08770)
