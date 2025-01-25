@@ -1,7 +1,7 @@
 # 👋 Hello world!
 - 🐦 I'm Wren
 - ✨ My pronouns are they/them
-- 🌱 I’m currently enrolled in a JavaScript Software Development bootcamp at Northcoders!
+- 🌱 I’m a Northcoders JavaScript Software Development bootcamp graduate!
 - 💬 Ask me about: One new thing I learned today!
 - 📫 You can [email me here](mailto:wren.hawthorne@outlook.com)!
 
