@@ -34,7 +34,7 @@
 #### 🧪 Testing
 ![Jest Badge](https://img.shields.io/badge/-Jest-24283b?style=for-the-badge&logo=jest&logoColor=8c4351)
 
-#### ⛅ Cloud Tools
+#### ⛅ Cloud Tools && Hosting
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-24283b?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-24283b?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-24283b?style=for-the-badge&logo=vercel&logoColor=#23000000)
