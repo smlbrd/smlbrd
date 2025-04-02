@@ -47,7 +47,7 @@
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-24283b?style=for-the-badge&logo=obsidian&logoColor=8B5CF6)
 
 #### 👀 I want to learn more about...
-![C++ Badge](https://img.shields.io/badge/-C++-24283b?style=for-the-badge&logo=cplusplus&logoColor=88C0D0)
+![C# Badge](https://img.shields.io/badge/-C%23-24283b?style=for-the-badge&logo=cplusplus&logoColor=88C0D0)
 ![Docker Badge](https://img.shields.io/badge/-Docker-24283b?style=for-the-badge&logo=docker&logoColor=B48EAD)
 ![Python Badge](https://img.shields.io/badge/-Python-24283b?style=for-the-badge&logo=python&logoColor=EBCB8B)
 
