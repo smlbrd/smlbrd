@@ -24,8 +24,9 @@
 ![React Native](https://img.shields.io/badge/React_Native-24283b?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-24283b?style=for-the-badge&logo=expo&logoColor=000020)
 ![HTML](https://img.shields.io/badge/-HTML-24283b?style=for-the-badge&logo=html5&logoColor=D08770)
-![CSS](https://img.shields.io/badge/-CSS-24283b?style=for-the-badge&logo=css3&logoColor=81A1C1)
+![CSS](https://img.shields.io/badge/-CSS-24283b?style=for-the-badge&logo=css&logoColor=81A1C1)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-24283b?style=for-the-badge&logo=bootstrap&logoColor=8FBCBB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-24283b?style=for-the-badge&logo=tailwindcss&logoColor=8FBCBB)
 
 #### 💽 Backend && Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-24283b?style=for-the-badge&logo=node.js&logoColor=A3BE8C)
