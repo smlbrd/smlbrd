@@ -9,10 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/wren-h) 
 
 ## 👀 I'm learning about...
-![C#](https://img.shields.io/badge/-C%23-24283b?style=for-the-badge&logo=cplusplus&logoColor=88C0D0)
-![.NET Badge](https://img.shields.io/badge/-.NET-24283b?style=for-the-badge&logo=dotnet&logoColor=88C0D0)
+![Go Badge](https://img.shields.io/badge/-Go-24283b?style=for-the-badge&logo=go&logoColor=5E81AC)
 ![Docker](https://img.shields.io/badge/-Docker-24283b?style=for-the-badge&logo=docker&logoColor=B48EAD)
-![Python](https://img.shields.io/badge/-Python-24283b?style=for-the-badge&logo=python&logoColor=EBCB8B)
+![Grafana Badge](https://img.shields.io/badge/-Grafana-24283b?style=for-the-badge&logo=grafana&logoColor=D08770)
 
 ## 💻 I'm coding with...
 #### 🔨 Programming Languages
@@ -25,7 +24,7 @@
 ![Expo](https://img.shields.io/badge/Expo-24283b?style=for-the-badge&logo=expo&logoColor=000020)
 ![HTML](https://img.shields.io/badge/-HTML-24283b?style=for-the-badge&logo=html5&logoColor=D08770)
 ![CSS](https://img.shields.io/badge/-CSS-24283b?style=for-the-badge&logo=css&logoColor=81A1C1)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-24283b?style=for-the-badge&logo=bootstrap&logoColor=8FBCBB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-24283b?style=for-the-badge&logo=bootstrap&logoColor=8B5CF6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-24283b?style=for-the-badge&logo=tailwindcss&logoColor=8FBCBB)
 
 #### 💽 Backend && Databases
@@ -54,6 +53,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-24283b?style=for-the-badge&logo=github&logoColor=8FBCBB)
 ![npm](https://img.shields.io/badge/-npm-24283b?style=for-the-badge&logo=npm&logoColor=BF616A)
 ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-24283b?style=for-the-badge&logo=vsc&logoColor=0078d7)
+![Jira Badge](https://img.shields.io/badge/-Jira-24283b?style=for-the-badge&logo=jira&logoColor=BF616A)
+![Confluence Badge](https://img.shields.io/badge/-Confluence-24283b?style=for-the-badge&logo=confluence&logoColor=81A1C1)
 ![Obsidian](https://img.shields.io/badge/Obsidian-24283b?style=for-the-badge&logo=obsidian&logoColor=8B5CF6)
 
 #### 📊 My stats...
